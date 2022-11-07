@@ -1,2 +1,2 @@
-*.ipynb linguist-language=Python
-*.ipynb linguist-language=R
+*_RSeQC*.ipynb linguist-language=Python
+*_Compare*.ipynb linguist-language=R
